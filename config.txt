@@ -1,6 +1,6 @@
-owner=490871722011131935
-prefix=1
-game=1play|#PG Community
+owner=583859995041333250
+prefix=F
+game=Fanters
 stayinchannel=false
 songinstatus=false
-token=NTc4NTQzMjExOTMzNTk3Njk2.XN1IeQ.3Ywl4fcjFG1iK91fj0q8WFUbiUM
+token=NTg3NjI4MjcxNTM4Mjc0MzU0.XP5VxQ.j-GCZfKePfDLmzQcbeUFf1LOYis
